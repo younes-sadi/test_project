@@ -1,0 +1,686 @@
+[
+  {
+    "name": "nat_eq_000500",
+    "params": "(g H : Nat)",
+    "goal": "g * H = g",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      5579,
+      0
+    ],
+    "title": "Orbit of Subgroup under Coset Action is Coset Space"
+  },
+  {
+    "name": "nat_eq_000501",
+    "params": "(n : Nat)",
+    "goal": "3 * 273 = 819",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000502",
+    "params": "(n : Nat)",
+    "goal": "2 * 327 = 654",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000503",
+    "params": "(y x : Nat)",
+    "goal": "+ 5 y = x",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18438,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' + 2 y' + 5 y = x sin x"
+  },
+  {
+    "name": "nat_eq_000504",
+    "params": "(y x : Nat)",
+    "goal": "y = x +",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11629,
+      0
+    ],
+    "title": "Second Order ODE/x y'' - y' = 3 x^2"
+  },
+  {
+    "name": "nat_eq_000505",
+    "params": "(y x : Nat)",
+    "goal": "+ 5 y = 25 x",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11796,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' - 2 y' + 5 y = 25 x^2 + 12"
+  },
+  {
+    "name": "nat_eq_000506",
+    "params": "(h f : Nat)",
+    "goal": "* h = f *",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      5851,
+      0
+    ],
+    "title": "Pointwise Multiplication on Integer-Valued Functions is Associative"
+  },
+  {
+    "name": "nat_eq_000507",
+    "params": "(Y X m : Nat)",
+    "goal": "Y = X + m",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      7557,
+      0
+    ],
+    "title": "Probability Generating Function of Shifted Random Variable"
+  },
+  {
+    "name": "nat_eq_000508",
+    "params": "(x : Nat)",
+    "goal": "= 1 + x +",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15578,
+      0
+    ],
+    "title": "Power Series Expansion for Exponential of Sine of x"
+  },
+  {
+    "name": "nat_eq_000509",
+    "params": "(y : Nat)",
+    "goal": "+ 2 y = 14",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11820,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' - 3 y' + 2 y = 14 sine 2 x - 18 cosine 2 x"
+  },
+  {
+    "name": "nat_eq_000510",
+    "params": "(h g : Nat)",
+    "goal": "h * g =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      8370,
+      0
+    ],
+    "title": "Group Action on Subgroup by Right Regular Representation is not Transitive"
+  },
+  {
+    "name": "nat_eq_000511",
+    "params": "(x p : Nat)",
+    "goal": "x = 1 * p 19966 78640 25773 4",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18303,
+      0
+    ],
+    "title": "Root of Equation e^x (x - 1) = e^-x (x + 1)"
+  },
+  {
+    "name": "nat_eq_000512",
+    "params": "(y : Nat)",
+    "goal": "+ 3 y = 0",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11776,
+      0
+    ],
+    "title": "Linear Second Order ODE/2 y'' + 2 y' + 3 y = 0"
+  },
+  {
+    "name": "nat_eq_000513",
+    "params": "(n : Nat)",
+    "goal": "2 * 219 = 438",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000514",
+    "params": "(f g : Nat)",
+    "goal": "f * g = g * f",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14040,
+      0
+    ],
+    "title": "Dirichlet Convolution is Commutative"
+  },
+  {
+    "name": "nat_eq_000515",
+    "params": "(x y : Nat)",
+    "goal": "x + y =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      17034,
+      0
+    ],
+    "title": "Sum of Two Fifth Powers"
+  },
+  {
+    "name": "nat_eq_000516",
+    "params": "(z u v w : Nat)",
+    "goal": "z = u * v * w",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      9679,
+      0
+    ],
+    "title": "Pumping Lemma for Regular Languages"
+  },
+  {
+    "name": "nat_eq_000517",
+    "params": "(t h e a : Nat)",
+    "goal": "theta + 1 =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      16173,
+      0
+    ],
+    "title": "Triple Angle Formulas/Cosine/2 cos 3 theta + 1"
+  },
+  {
+    "name": "nat_eq_000518",
+    "params": "(r a b c : Nat)",
+    "goal": "r = a + b + c",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      12440,
+      0
+    ],
+    "title": "Summation of Powers over Product of Differences/Example"
+  },
+  {
+    "name": "nat_eq_000519",
+    "params": "(m g n : Nat)",
+    "goal": "m g + n g =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      12810,
+      0
+    ],
+    "title": "Powers of Group Elements/Sum of Indices/Additive Notation"
+  },
+  {
+    "name": "nat_eq_000520",
+    "params": "(m a p f : Nat)",
+    "goal": "map f z = x + 0 y",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18868,
+      0
+    ],
+    "title": "Canonical Injection of Real Number Line into Complex Plane"
+  },
+  {
+    "name": "nat_eq_000521",
+    "params": "(n : Nat)",
+    "goal": "* =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15264,
+      0
+    ],
+    "title": "Alexandroff Extension of Rational Number Space is Sequentially Compact"
+  },
+  {
+    "name": "nat_eq_000522",
+    "params": "(y e : Nat)",
+    "goal": "y = 1 + e",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18419,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' - 2 y' + y = 1 over 1 + e^x"
+  },
+  {
+    "name": "nat_eq_000523",
+    "params": "(y e : Nat)",
+    "goal": "+ 5 y = 2 e",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18431,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' + 4 y' + 5 y = 2 exp -2 x"
+  },
+  {
+    "name": "nat_eq_000524",
+    "params": "(n : Nat)",
+    "goal": "3 * 327 = 981",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000525",
+    "params": "(r i g h : Nat)",
+    "goal": "right) = k * d",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      10529,
+      0
+    ],
+    "title": "Positive Multiple of Metric is Metric"
+  },
+  {
+    "name": "nat_eq_000526",
+    "params": "(b m o d : Nat)",
+    "goal": "bmod 1 = 0 * p 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15769,
+      0
+    ],
+    "title": "Modulo Operation/Examples/1.1 mod 1"
+  },
+  {
+    "name": "nat_eq_000527",
+    "params": "(r x : Nat)",
+    "goal": "r = 1 + x",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15557,
+      0
+    ],
+    "title": "Power Series Expansion for General Exponential Function"
+  },
+  {
+    "name": "nat_eq_000528",
+    "params": "(m : Nat)",
+    "goal": "2 = 2 m + 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      13706,
+      0
+    ],
+    "title": "Sums of Partial Sequences of Squares"
+  },
+  {
+    "name": "nat_eq_000529",
+    "params": "(y x C : Nat)",
+    "goal": "y = x + C x",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11548,
+      0
+    ],
+    "title": "First Order ODE/(x^2 - 2 y^2) dx + x y dy = 0"
+  },
+  {
+    "name": "nat_eq_000530",
+    "params": "(p : Nat)",
+    "goal": "= 0 * p",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14770,
+      0
+    ],
+    "title": "333,667 is Only Prime whose Reciprocal is of Period 9"
+  },
+  {
+    "name": "nat_eq_000531",
+    "params": "(a l p h : Nat)",
+    "goal": "alpha = a + b",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      7397,
+      0
+    ],
+    "title": "Norm of Eisenstein Integer"
+  },
+  {
+    "name": "nat_eq_000532",
+    "params": "(p X : Nat)",
+    "goal": "p = X + 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      17196,
+      0
+    ],
+    "title": "Field of Quotients of Ring of Polynomial Forms on Reals that yields Complex Numbers"
+  },
+  {
+    "name": "nat_eq_000533",
+    "params": "(x J : Nat)",
+    "goal": "x + J =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      524,
+      0
+    ],
+    "title": "Quotient Group of Ideal is Coset Space"
+  },
+  {
+    "name": "nat_eq_000534",
+    "params": "(d f r a : Nat)",
+    "goal": "dfrac 1 r = 1 +",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15594,
+      0
+    ],
+    "title": "Power Series Expansion for Logarithm of 1 + x over 1 + x"
+  },
+  {
+    "name": "nat_eq_000535",
+    "params": "(r : Nat)",
+    "goal": "r = 1 + 2 + 2",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      17691,
+      0
+    ],
+    "title": "Sum of Powers of 2"
+  },
+  {
+    "name": "nat_eq_000536",
+    "params": "(n : Nat)",
+    "goal": "+ =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      6225,
+      0
+    ],
+    "title": "Recursive Construction of Transitive Closure"
+  },
+  {
+    "name": "nat_eq_000537",
+    "params": "(g h : Nat)",
+    "goal": "g * h =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      8365,
+      0
+    ],
+    "title": "Left Regular Representation is Transitive Group Action"
+  },
+  {
+    "name": "nat_eq_000538",
+    "params": "(x y : Nat)",
+    "goal": "x + x y + y =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      17036,
+      0
+    ],
+    "title": "Sum of Fourth Powers with Product of Squares"
+  },
+  {
+    "name": "nat_eq_000539",
+    "params": "(n : Nat)",
+    "goal": "1 * 1 = 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      5031,
+      0
+    ],
+    "title": "Idempotent Elements for Integer Multiplication"
+  },
+  {
+    "name": "nat_eq_000540",
+    "params": "(m : Nat)",
+    "goal": "= 2 m + 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      13706,
+      0
+    ],
+    "title": "Sums of Partial Sequences of Squares"
+  },
+  {
+    "name": "nat_eq_000541",
+    "params": "(n : Nat)",
+    "goal": "+ 1 =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      16184,
+      0
+    ],
+    "title": "Factorisation of z^(2n+1)+1 in Real Domain"
+  },
+  {
+    "name": "nat_eq_000542",
+    "params": "(h f g : Nat)",
+    "goal": "h = f * g",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14938,
+      0
+    ],
+    "title": "Upper Bound for Abscissa of Absolute Convergence of Product of Dirichlet Series"
+  },
+  {
+    "name": "nat_eq_000543",
+    "params": "(y : Nat)",
+    "goal": "+ 8 y = 0",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11771,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' + 8 y = 0"
+  },
+  {
+    "name": "nat_eq_000544",
+    "params": "(l x m y : Nat)",
+    "goal": "l x + m y = 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      16104,
+      0
+    ],
+    "title": "Equation of Line in Complex Plane/Formulation 2"
+  },
+  {
+    "name": "nat_eq_000545",
+    "params": "(e x : Nat)",
+    "goal": "e = 1 + x +",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15578,
+      0
+    ],
+    "title": "Power Series Expansion for Exponential of Sine of x"
+  },
+  {
+    "name": "nat_eq_000546",
+    "params": "(d a s b : Nat)",
+    "goal": "d = a s + b t",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      5729,
+      0
+    ],
+    "title": "Smallest Positive Integer Combination is Greatest Common Divisor"
+  },
+  {
+    "name": "nat_eq_000547",
+    "params": "(n a p : Nat)",
+    "goal": "n = 2 a + p",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      13640,
+      0
+    ],
+    "title": "Smallest Odd Number not of form 2 a squared plus p"
+  },
+  {
+    "name": "nat_eq_000548",
+    "params": "(r x : Nat)",
+    "goal": "r = x + x",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15581,
+      0
+    ],
+    "title": "Power Series Expansion for Exponential of x by Sine of x"
+  },
+  {
+    "name": "nat_eq_000549",
+    "params": "(m a p f : Nat)",
+    "goal": "map f n = n + 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      17973,
+      0
+    ],
+    "title": "Successor Mapping on Natural Numbers is not Surjection"
+  },
+  {
+    "name": "nat_eq_000550",
+    "params": "(g h : Nat)",
+    "goal": "g * h = g",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      893,
+      0
+    ],
+    "title": "Group Acts on Itself"
+  },
+  {
+    "name": "nat_eq_000551",
+    "params": "(n : Nat)",
+    "goal": "3 * 219 = 657",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000552",
+    "params": "(r : Nat)",
+    "goal": "r = +",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11060,
+      0
+    ],
+    "title": "Sine in terms of Tangent"
+  },
+  {
+    "name": "nat_eq_000553",
+    "params": "(r : Nat)",
+    "goal": "r = 1 + r",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      15537,
+      0
+    ],
+    "title": "Sum of Series of Product of Power and Cosine"
+  },
+  {
+    "name": "nat_eq_000554",
+    "params": "(y : Nat)",
+    "goal": "+ 10 y = 0",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11780,
+      0
+    ],
+    "title": "Linear Second Order ODE/x^2 y'' + 3 x y' + 10 y = 0"
+  },
+  {
+    "name": "nat_eq_000555",
+    "params": "(y x : Nat)",
+    "goal": "+ 5 y = 25 x + 12",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11796,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' - 2 y' + 5 y = 25 x^2 + 12"
+  },
+  {
+    "name": "nat_eq_000556",
+    "params": "(n : Nat)",
+    "goal": "2 * 192 = 384",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  }
+]

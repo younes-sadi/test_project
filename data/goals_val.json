@@ -1,0 +1,662 @@
+[
+  {
+    "name": "nat_eq_000445",
+    "params": "(y : Nat)",
+    "goal": "+ y = 2",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11821,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' + y = 2 cosine x"
+  },
+  {
+    "name": "nat_eq_000446",
+    "params": "(y x e : Nat)",
+    "goal": "+ y = 2 x e",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11617,
+      0
+    ],
+    "title": "Linear First Order ODE/y' + y = 2 x exp -x + x^2"
+  },
+  {
+    "name": "nat_eq_000447",
+    "params": "(y e : Nat)",
+    "goal": "+ y = e",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      18432,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' + y = exp -x cos x"
+  },
+  {
+    "name": "nat_eq_000448",
+    "params": "(y x e : Nat)",
+    "goal": "+ y = 2 x e + x",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11617,
+      0
+    ],
+    "title": "Linear First Order ODE/y' + y = 2 x exp -x + x^2"
+  },
+  {
+    "name": "nat_eq_000449",
+    "params": "(y : Nat)",
+    "goal": "+ 8 y = 0",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11781,
+      0
+    ],
+    "title": "Linear Second Order ODE/2 x^2 y'' + 10 x y' + 8 y = 0"
+  },
+  {
+    "name": "nat_eq_000450",
+    "params": "(h a b : Nat)",
+    "goal": "h + a = b",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      16618,
+      0
+    ],
+    "title": "Group has Latin Square Property/Additive Notation"
+  },
+  {
+    "name": "nat_eq_000451",
+    "params": "(c i r x : Nat)",
+    "goal": "circ x = n * x",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      4963,
+      0
+    ],
+    "title": "Scalar Product with Multiple of Unity"
+  },
+  {
+    "name": "nat_eq_000452",
+    "params": "(c i r y : Nat)",
+    "goal": "circ y = x + y",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      3597,
+      0
+    ],
+    "title": "Real Numbers under Addition Modulo 1 form Group"
+  },
+  {
+    "name": "nat_eq_000453",
+    "params": "(a b : Nat)",
+    "goal": "a + b = b + a",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      10808,
+      0
+    ],
+    "title": "Parity Addition is Commutative"
+  },
+  {
+    "name": "nat_eq_000454",
+    "params": "(n : Nat)",
+    "goal": "20 = 11 + 12 + 13 + 14",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      14691,
+      0
+    ],
+    "title": "Cube of 20 is Sum of Sequence of 4 Consecutive Cubes"
+  },
+  {
+    "name": "nat_eq_000455",
+    "params": "(y : Nat)",
+    "goal": "+ y =",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11831,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' + y = cosecant x"
+  },
+  {
+    "name": "nat_eq_000456",
+    "params": "(r : Nat)",
+    "goal": "r = +",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11067,
+      0
+    ],
+    "title": "Cosine in terms of Sine"
+  },
+  {
+    "name": "nat_eq_000457",
+    "params": "(p : Nat)",
+    "goal": "= 0 * p 0",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      14156,
+      0
+    ],
+    "title": "Reciprocal of 98"
+  },
+  {
+    "name": "nat_eq_000458",
+    "params": "(n : Nat)",
+    "goal": "= 1 +",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      15556,
+      0
+    ],
+    "title": "Power Series Expansion of Cube Root of 1 + x"
+  },
+  {
+    "name": "nat_eq_000459",
+    "params": "(n : Nat)",
+    "goal": "* =",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      18502,
+      0
+    ],
+    "title": "Product of Rational Cuts is Rational Cut"
+  },
+  {
+    "name": "nat_eq_000460",
+    "params": "(g s : Nat)",
+    "goal": "g * s = s",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      8361,
+      0
+    ],
+    "title": "Orbit of Trivial Group Action is Singleton"
+  },
+  {
+    "name": "nat_eq_000461",
+    "params": "(i m p l : Nat)",
+    "goal": "implies a + c =",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      3594,
+      0
+    ],
+    "title": "Divisors obey Distributive Law"
+  },
+  {
+    "name": "nat_eq_000462",
+    "params": "(x y : Nat)",
+    "goal": "x + 4 y =",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      1891,
+      1
+    ],
+    "title": "Sophie Germain's Identity"
+  },
+  {
+    "name": "nat_eq_000463",
+    "params": "(a b c : Nat)",
+    "goal": "a + b = c",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      13162,
+      0
+    ],
+    "title": "Pythagorean Triangle from Fibonacci Numbers"
+  },
+  {
+    "name": "nat_eq_000464",
+    "params": "(m a p f : Nat)",
+    "goal": "map f n = a n + b",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      1670,
+      0
+    ],
+    "title": "Linear Function is Primitive Recursive"
+  },
+  {
+    "name": "nat_eq_000465",
+    "params": "(y x C : Nat)",
+    "goal": "2 y x + x = C",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11707,
+      0
+    ],
+    "title": "First Order ODE/(y^2 - 3 x y - 2 x^2) dx = (x^2 - x y) dy"
+  },
+  {
+    "name": "nat_eq_000466",
+    "params": "(a x : Nat)",
+    "goal": "+ a x = 0",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11886,
+      0
+    ],
+    "title": "Resonance Frequency is less than Natural Frequency"
+  },
+  {
+    "name": "nat_eq_000467",
+    "params": "(r i g h : Nat)",
+    "goal": "right) = b *",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      5235,
+      0
+    ],
+    "title": "Abelian Group Induces Commutative B-Algebra"
+  },
+  {
+    "name": "nat_eq_000468",
+    "params": "(p i s : Nat)",
+    "goal": "pi * s =",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      8359,
+      0
+    ],
+    "title": "Group Action of Symmetric Group Acts Transitively"
+  },
+  {
+    "name": "nat_eq_000469",
+    "params": "(a x K : Nat)",
+    "goal": "+ a x = K",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11886,
+      0
+    ],
+    "title": "Resonance Frequency is less than Natural Frequency"
+  },
+  {
+    "name": "nat_eq_000470",
+    "params": "(n : Nat)",
+    "goal": "149 + 263 + 587 = 999",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      14542,
+      0
+    ],
+    "title": "Sum of Pandigital Triplet of 3-Digit Primes"
+  },
+  {
+    "name": "nat_eq_000471",
+    "params": "(R : Nat)",
+    "goal": "R = +",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      16225,
+      0
+    ],
+    "title": "Existence of Radius of Convergence of Complex Power Series/Absolute Convergence"
+  },
+  {
+    "name": "nat_eq_000472",
+    "params": "(y x e : Nat)",
+    "goal": "y = x e + x",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      11617,
+      0
+    ],
+    "title": "Linear First Order ODE/y' + y = 2 x exp -x + x^2"
+  },
+  {
+    "name": "nat_eq_000473",
+    "params": "(n : Nat)",
+    "goal": "n = 2 * 3 * 5 * 7 * 11 * 13 * 19 * 31",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      14906,
+      0
+    ],
+    "title": "Multiply Perfect Number of Order 6"
+  },
+  {
+    "name": "nat_eq_000474",
+    "params": "(h f : Nat)",
+    "goal": "+ h = f +",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      5850,
+      0
+    ],
+    "title": "Pointwise Addition on Rational-Valued Functions is Associative"
+  },
+  {
+    "name": "nat_eq_000475",
+    "params": "(n : Nat)",
+    "goal": "1 + 1 = 2",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      7741,
+      0
+    ],
+    "title": "1+1 = 2"
+  },
+  {
+    "name": "nat_eq_000476",
+    "params": "(g h : Nat)",
+    "goal": "g * h = g",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      8367,
+      0
+    ],
+    "title": "Conjugacy Action on Abelian Group is Trivial"
+  },
+  {
+    "name": "nat_eq_000477",
+    "params": "(c a : Nat)",
+    "goal": "* c = a *",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      10809,
+      0
+    ],
+    "title": "Parity Multiplication is Associative"
+  },
+  {
+    "name": "nat_eq_000478",
+    "params": "(z x i y : Nat)",
+    "goal": "z = x + i y",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      16267,
+      0
+    ],
+    "title": "Bounds for Modulus of e^z on Circle x^2 + y^2 - 2x - 2y - 2 = 0"
+  },
+  {
+    "name": "nat_eq_000479",
+    "params": "(u v : Nat)",
+    "goal": "u * v = u",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      19685,
+      0
+    ],
+    "title": "Set of Endomorphisms of Non-Abelian Group is not Ring"
+  },
+  {
+    "name": "nat_eq_000480",
+    "params": "(p : Nat)",
+    "goal": "= 0 * p",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      14546,
+      0
+    ],
+    "title": "Reciprocal of 1089"
+  },
+  {
+    "name": "nat_eq_000481",
+    "params": "(a b c : Nat)",
+    "goal": "a * b = a * c",
+    "category": "NatEq",
+    "source_split": "validation",
+    "source_id": [
+      19511,
+      0
+    ],
+    "title": "Cancellation Law for Field Product"
+  },
+  {
+    "name": "nat_eq_000482",
+    "params": "(n : Nat)",
+    "goal": "n = 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19 * 23 * 29 * 31",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14207,
+      0
+    ],
+    "title": "Multiply Perfect Number of Order 8"
+  },
+  {
+    "name": "nat_eq_000483",
+    "params": "(n : Nat)",
+    "goal": "2 * 273 = 546",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000484",
+    "params": "(a q b r : Nat)",
+    "goal": "a = q b + r",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      8243,
+      0
+    ],
+    "title": "Division Theorem/Positive Divisor/Existence/Proof 1"
+  },
+  {
+    "name": "nat_eq_000485",
+    "params": "(y : Nat)",
+    "goal": "+ y =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18419,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' - 2 y' + y = 1 over 1 + e^x"
+  },
+  {
+    "name": "nat_eq_000486",
+    "params": "(x n : Nat)",
+    "goal": "x = 2 n + 1",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      16783,
+      0
+    ],
+    "title": "Odd Integers under Multiplication do not form Group"
+  },
+  {
+    "name": "nat_eq_000487",
+    "params": "(s : Nat)",
+    "goal": "2 = * s",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      4457,
+      0
+    ],
+    "title": "Inequality of Hölder Means"
+  },
+  {
+    "name": "nat_eq_000488",
+    "params": "(n : Nat)",
+    "goal": "0 * 0 = 0",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      5031,
+      0
+    ],
+    "title": "Idempotent Elements for Integer Multiplication"
+  },
+  {
+    "name": "nat_eq_000489",
+    "params": "(z x i y : Nat)",
+    "goal": "z = x + i y",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      16254,
+      0
+    ],
+    "title": "Real Part of Complex Exponential Function"
+  },
+  {
+    "name": "nat_eq_000490",
+    "params": "(y e : Nat)",
+    "goal": "+ 2 y = 5 e",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18407,
+      0
+    ],
+    "title": "Linear Second Order ODE/y'' - 3 y' + 2 y = 5 exp 3 x"
+  },
+  {
+    "name": "nat_eq_000491",
+    "params": "(z : Nat)",
+    "goal": "z + 1 =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      16184,
+      0
+    ],
+    "title": "Factorisation of z^(2n+1)+1 in Real Domain"
+  },
+  {
+    "name": "nat_eq_000492",
+    "params": "(n : Nat)",
+    "goal": "3 * 192 = 576",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      14265,
+      0
+    ],
+    "title": "Pandigital Sum whose Components are Multiples"
+  },
+  {
+    "name": "nat_eq_000493",
+    "params": "(y x : Nat)",
+    "goal": "+ y = x",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11622,
+      0
+    ],
+    "title": "Bernoulli's Equation/x y^2 y' + y^3 = x cosine x"
+  },
+  {
+    "name": "nat_eq_000494",
+    "params": "(n s : Nat)",
+    "goal": "n = 2 + 2 + * s + 2",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      2038,
+      0
+    ],
+    "title": "Factorial Divisible by Binary Root"
+  },
+  {
+    "name": "nat_eq_000495",
+    "params": "(z x i : Nat)",
+    "goal": "z = x + 0 i",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      18885,
+      0
+    ],
+    "title": "Positive Real Axis forms Subgroup of Complex Numbers under Multiplication"
+  },
+  {
+    "name": "nat_eq_000496",
+    "params": "(y x : Nat)",
+    "goal": "3 y + x = 3",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11637,
+      0
+    ],
+    "title": "Second Order ODE/(x^2 + 2 y') y'' + 2 x y' = 0"
+  },
+  {
+    "name": "nat_eq_000497",
+    "params": "(A C B D : Nat)",
+    "goal": "AC + BD = AB + BC + CD + DA",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      17111,
+      0
+    ],
+    "title": "Squares of Diagonals of Parallelogram"
+  },
+  {
+    "name": "nat_eq_000498",
+    "params": "(y C : Nat)",
+    "goal": "y + y = C",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      11563,
+      0
+    ],
+    "title": "First Order ODE/exp y dx + (x exp y + 2 y) dy = 0"
+  },
+  {
+    "name": "nat_eq_000499",
+    "params": "(m a t h : Nat)",
+    "goal": "mathbb U * S =",
+    "category": "NatEq",
+    "source_split": "test",
+    "source_id": [
+      140,
+      0
+    ],
+    "title": "Symmetric Difference with Universe"
+  }
+]
